@@ -1,4 +1,5 @@
-/* array created from bin-file by bin2header (c) 2013 Nils Stec, <nils.stec@gmail.com>
+/*
+ * array created from bin-file by bin2header (c) 2013 Nils Stec, <nils.stec@gmail.com>
  * file 'binfile.bin', filesize 100bytes
  *
  */
